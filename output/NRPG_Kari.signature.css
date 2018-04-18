@@ -71,7 +71,7 @@
       transition: width 1s;
       -webkit-transition: width 1s;
  }
-  .kari_c:not(:hover) > .kari_i1 {
+  .kari_c:not(:hover) > .kari_i4 {
       width: 400px;
  }
   .kari_i:hover {
